@@ -7,6 +7,8 @@ gem 'mongoid', git: 'https://github.com/mongoid/mongoid.git'
 
 gem 'haml-rails'
 
+gem 'bootstrap-sass','~>3.1.1.0'
+
 group :development do
   gem "hirb"
   gem "awesome_print"
